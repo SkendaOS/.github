@@ -1,4 +1,4 @@
-# Welcome to SkendaOS Public Repositories
+# Welcome to SkendaOS Public Repositories 👋
 
 SkendaOS is an experimental operating system build with Cosmos Kernel using C# language. Any contribution is welcome in this project.
 
